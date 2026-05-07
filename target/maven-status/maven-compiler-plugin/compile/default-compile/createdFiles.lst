@@ -1,0 +1,6 @@
+com\insurance\servlet\PolicyServlet.class
+com\insurance\model\InsurancePlan.class
+com\insurance\model\MobileDevice.class
+com\insurance\servlet\DashboardServlet.class
+com\insurance\model\Policy.class
+com\insurance\model\PlanRegistry.class
